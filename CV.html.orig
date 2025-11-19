@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae</title>
+    <style>
+		h1{
+		color: blue;
+		}
+		h2{
+		color: blue;
+		}
+		h3{
+		color: blue;
+		}
+		h4{
+		color: blue;
+		}
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        td {
+            padding: 8px;
+            border: 1px solid #ddd;
+        }
+        th {
+            text-align: left;
+            background-color: #f2f2f2;
+            padding: 8px;
+            border: 1px solid #ddd;
+        }
+        .header {
+			display: flex;
+			align-items: center;
+			margin-bottom: 20px; 
+		}
+        .header img {
+            height: 100px;  
+            margin-right: 15px;  
+        }
+        .header h1 {
+            margin: 0; 
+        }
+		img{
+			height: 300px;
+		}
+    </style>
+</head>
+<body>
+
+<<<<<<< HEAD
+<h1>Curriculum Vitae</h1>
+
+=======
+<div class="header">
+<img src="imagens/europass.jpg" alt="Logo do Europass">
+<h1>Curriculum Vitae</h1>
+</div>
+<img src="imagens/imagem.jpg" alt="Imagem"> <height 50px;>
+>>>>>>> Branch2
+<table>
+    <tr>
+        <th>Informações Pessoais</th>
+        <td>Nome: Leonardo Pinto Costa</td>
+    </tr>
+    <tr>
+        <td>Morada: Rua D.Afonso Henriques, Santa Maria da Feira, Portugal</td>
+        <td>Email: 1251663@isep.ipp.pt</td>
+    </tr>
+    <tr>
+        <td>Telefone: +351 913 554 353</td>
+        <td>Data de Nascimento: 16/04/2007</td>
+    </tr>
+    <tr>
+        <td>Nacionalidade: Portuguesa</td>
+        <td>Sexo: Masculino</td>
+    </tr>
+</table>
+
+<h3>Experiência Profissional</h3>
+
+<table>
+    <tr>
+        <th>6 meses</th>
+        <th>Estagiário(Desenvolvedor Web)</th>
+        <th>Modern Queen</th>
+        <th>Desenvolvimento e manutenção de site</th>
+    </tr>
+</table>
+
+<h3>Educação e Formação</h3>
+
+<table>
+    <tr>
+        <th>2022 - 2025</th>
+        <th>Curso Profissional GPSI(Gestão e Programação de Sistemas Informáticos)</th>
+        <th>Escola Secundária de Santa Maria da Feira</th>
+    </tr>
+</table>
+
+<h3>Competências Pessoais</h3>
+
+<table>
+    <tr>
+        <th>Lingua Materna</th>
+        <td>Português</td>
+    </tr>
+    <tr>
+        <th>Outras Línguas</th>
+        <td>Inglês - Fluente</td>
+    </tr>
+    <tr>
+        <th>Competências Digitais</th>
+        <td>Microsoft Office, Desenvolvimento Web (HTML, CSS, JavaScript), PHP, SQL, Python, C#</td>
+    </tr>
+</table>
+
+</body>
+</html>
