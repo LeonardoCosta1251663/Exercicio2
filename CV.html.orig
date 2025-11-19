@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Curriculum Vitae</title>
     <style>
+<<<<<<< HEAD
 		h1{
 		color: blue;
 		}
@@ -16,6 +17,13 @@
 		}
 		h4{
 		color: blue;
+=======
+	  h1 {
+		color: blue
+		}
+	    h3 {
+		color: blue
+>>>>>>> 035c7028ecd6f7ab848d15ad85a12e4cf26f5aeb
 		}
         table {
             width: 100%;
@@ -31,6 +39,7 @@
             padding: 8px;
             border: 1px solid #ddd;
         }
+<<<<<<< HEAD
         .header {
 			display: flex;
 			align-items: center;
@@ -45,21 +54,29 @@
         }
 		img{
 			height: 300px;
+=======
+		.header {
+			display: flex;
+			align-items: center;
+			margin-bottom: 20px;
+		}
+		.header img {
+			height: 100px;
+			margin-right: 15px;
+		}
+		.header h1 {
+			margin: 0;
+>>>>>>> 035c7028ecd6f7ab848d15ad85a12e4cf26f5aeb
 		}
     </style>
 </head>
 <body>
 
-<<<<<<< HEAD
-<h1>Curriculum Vitae</h1>
-
-=======
 <div class="header">
 <img src="imagens/europass.jpg" alt="Logo do Europass">
 <h1>Curriculum Vitae</h1>
 </div>
 <img src="imagens/imagem.jpg" alt="Imagem"> <height 50px;>
->>>>>>> Branch2
 <table>
     <tr>
         <th>Informações Pessoais</th>
